@@ -1,4 +1,4 @@
-# Puthussery Lab 2P scope layout with visual simulus
+# Puthussery lab 2P scope layout with visual simulus
 ![](Two%20scope%20layout2.png)
 - Use 7-zip to extract the CAD model: [https://www.7-zip.org/](https://www.7-zip.org/)
 - Use FreeCAD to view the CAD model: [https://www.freecad.org/](https://www.freecad.org/)
